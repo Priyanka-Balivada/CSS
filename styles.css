@@ -71,6 +71,10 @@ a {
   margin-right: 35px;
 }
 
+a:hover{
+  color: #EAF6F6;
+}
+
 .skill-row {
   width: 50%;
   margin: 100px auto 100px auto;
